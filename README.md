@@ -1,9 +1,11 @@
-LogonNotifier 1.0 by Joseph Ryan Ries
+# LogonNotifier 1.0 by Joseph Ryan Ries
+
 A test service to demonstrate registering for user logon session change notifications.
 
-Usage:
-  LogonNotifier -install
-  LogonNotifier -uninstall
+    Usage:
+      LogonNotifier -install
+      LogonNotifier -uninstall
+
 
 This program only runs when installed as a Windows service.
 
