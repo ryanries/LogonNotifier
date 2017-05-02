@@ -14,3 +14,6 @@ The service is written in C, and compiled in Visual Studio 2015. I used /Wall to
 The service runs as Local Service, which is quite safe compared to Local System.
 
 It outputs a logfile to %SystemRoot%\ServiceProfiles\LocalService\AppData\Local\LogonNotifier.log.
+
+![logfile](logfile.PNG "logfile")
+
